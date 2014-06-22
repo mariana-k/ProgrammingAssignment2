@@ -38,6 +38,6 @@ cacheSolve <- function(c, ...) {
 
 ## Run the following code to initialize the functions
 ## m = matrix(c(1, 2, 3, 4), 2)
-## cm = makeCacheMatrix(v)
-## cacheSolve(cv)
-## cacheSolve(cv)
+## cm = makeCacheMatrix(m)
+## cacheSolve(cm)
+## cacheSolve(cm)
